@@ -1,0 +1,14 @@
+.openComponent{
+  width: 100%;
+  height: 200px;
+  background-color: khaki;
+  text-align: center;
+}
+
+.textInput{
+  margin:auto;
+}
+
+.allContent{
+  text-align: center;
+}
